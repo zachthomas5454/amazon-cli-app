@@ -13,6 +13,6 @@ Below shows the steps used to execute the app and the expected output:
 
     <img src="/screenshot/stockAvailable.png">
 
-3. On entering the required item with ID and quantity and if the stock is available, following image is displayed:  
+3. On entering the required item with ID and quantity and if the stock is unavailable, following image is displayed:  
 
     <img src="/screenshot/stockUnavailable.png">

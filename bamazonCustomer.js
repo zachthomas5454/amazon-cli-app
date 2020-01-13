@@ -50,7 +50,7 @@ function purchasePrompt() {
 
     ]).then(function (answers) {
         var quantityNeeded = answers.Quantity;
-        var IDrequested = answers.ID;
+        var IDrequested = answers.ID;17
         purchaseOrder(IDrequested, quantityNeeded);
     });
 };
